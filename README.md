@@ -6,7 +6,6 @@
 
 > <font color="red">建议使用Typora软件来阅读本文档，显示效果较好。</font>
 
-- [0-面试记录和常见面试问题](0.个人面试记录.md)
 - [1-Java基础:star: :star:](1.Java基础知识.md)
 - [2-JVM:star: :star:](2.JVM相关笔记.md)
 - [3-Java并发编程:star: :star:](3.Java并发编程相关笔记.md)
